@@ -5,6 +5,7 @@
  */
 package newpackage;
 //browser: mexendo no código fibonacci 1
+//netbeans: mexendo no código fibonacci 1
 /**
  *
  * @author EDYA
